@@ -332,3 +332,4 @@ float leVoltagem(int banco) {
   return vIN;
 
 }
+//......
